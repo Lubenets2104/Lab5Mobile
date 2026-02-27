@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Flight Search</string>
+    <string name="search_placeholder">Enter IATA code or airport name</string>
+    <string name="clear_search">Clear search</string>
+    <string name="flights_from">Flights from %1$s</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_favorites">No favorite flights.\nAdd a flight to favorites by tapping the heart icon.</string>
+    <string name="no_results">No airports found</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="remove_favorite">Remove from favorites</string>
+</resources>
