@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поиск рейсов</string>
+    <string name="search_placeholder">Введите код IATA или название</string>
+    <string name="clear_search">Очистить поиск</string>
+    <string name="flights_from">Рейсы из %1$s</string>
+    <string name="favorites">Избранное</string>
+    <string name="no_favorites">Нет избранных рейсов.\nДобавьте рейс в избранное, нажав на сердечко.</string>
+    <string name="no_results">Аэропорты не найдены</string>
+    <string name="depart">Вылет</string>
+    <string name="arrive">Прилёт</string>
+    <string name="add_favorite">Добавить в избранное</string>
+    <string name="remove_favorite">Удалить из избранного</string>
+</resources>
